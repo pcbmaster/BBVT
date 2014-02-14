@@ -11,4 +11,4 @@ todo: describe installation and usage
 
 Acknowlegements
 -------------------
-4Duker (I assume) for writing the original BBterm <a href="4duker.ru/BB/Downloads/BB_FILES.html">link</a><br>
+4Duker (I assume) for writing the original BBterm <a href="http://4duker.ru/BB/Downloads/BB_FILES.html">link</a><br>
